@@ -1,2 +1,3 @@
-# rapid-sports-analytics-xcsp
-Automated issue comment bot repository
+# Rapid Sports Analytics Xcsp
+
+Automated issue comment bot repository.
